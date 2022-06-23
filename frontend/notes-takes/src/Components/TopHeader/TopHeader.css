@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+header{
+
+
+    width: 100vw;
+    height: 40px;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+a{
+
+    text-decoration: none;
+    font-size: 25px;
+
+}
+
+
+
+
